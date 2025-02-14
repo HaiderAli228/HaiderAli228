@@ -1,4 +1,4 @@
-<h1 align="center">✅ Helping Startup and Businesses to Build Scalable Mobile and Web Applications 🧑‍💼✅ <br>  </h1>
+<h1 align="center">✅ Helping Startup and Businesses to Build Scalable Mobile and Web Applications ✅ <br>  </h1>
 
 <h3 align="center"><br>Flutter Application Developer | AI-Driven & Scalable App Integration | Native and Hybrid Application Development | MVVM and Clean Architecture | SOLID Principles and Design patterns | API Integration | State management (BloC and provider) | Navigation and routing technique | Animations (Rive and Lottie) | OOP and functional programming | Database (SQL, SQLite, Shared preference, Firebase) | CI/CD | Deployment </h3>
 
