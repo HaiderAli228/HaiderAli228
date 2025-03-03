@@ -10,8 +10,7 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on [SAAS Product](https://github.com/HaiderAli228/DocView)
-- 🌱 I’m currently learning **Python, Django, Flask, MongoDB, and Backend Technologies**
+- 🌱 I’m currently learning **Flutter Backend Technologies**
 - 👨‍💻 All of my projects are available at [https://github.com/HaiderAli228](https://github.com/HaiderAli228)
 - 📝 I regularly post my work on LinkedIn [Haider Ali LinkedIn](https://www.linkedin.com/in/haider-ali-087b08317/)
 - 💬 Ask me about **Flutter, Dart**
