@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Flutter Backend Technologies Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/HaiderAli228](https://github.com/HaiderAli228)
 - 📝 I regularly post my work on LinkedIn [Haider Ali LinkedIn](https://www.linkedin.com/in/haider-ali-087b08317/)
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter | Dart | Java | DSA | System Design**
 - 📫 How to reach me **flutter2830@gmail.com**
 - 📄 I regularly post my work on Facebook [Haider Ali Facebook](https://www.facebook.com/profile.php?id=61550941807126)
 - ⚡ Fun fact and Hobby: **Like to play Volleyball and Reading Books**
