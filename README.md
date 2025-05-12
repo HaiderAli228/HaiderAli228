@@ -10,7 +10,7 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Flutter Backend Technologies**
+- 🌱 I’m currently learning **Flutter Backend Technologies Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/HaiderAli228](https://github.com/HaiderAli228)
 - 📝 I regularly post my work on LinkedIn [Haider Ali LinkedIn](https://www.linkedin.com/in/haider-ali-087b08317/)
 - 💬 Ask me about **Flutter, Dart**
