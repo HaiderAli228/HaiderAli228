@@ -1,4 +1,4 @@
-<h1 align="center">💡 Working on PakTech Innovation Startup 🔥<br> </h1>
+<h1 align="center">💡 Life Saving Advice : Don't compare your chapter # 1 with someone chapter # 10  🔥<br> </h1>
 
 <h3 align="center"><br>Full Stack Application Developer | Flutter & Node.js | AI-Driven & Scalable App Integration | Native and Hybrid Application Development | MVVM and Clean Architecture | SOLID Principles and Design patterns | API Integration | State management (BloC and provider) | Navigation and routing technique | Animations | OOP and functional programming | Database (SQL, SQLite, Shared preference, Firebase) | CI/CD | Deployment </h3>
 
