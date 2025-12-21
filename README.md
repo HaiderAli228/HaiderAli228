@@ -1,4 +1,4 @@
-<h1 align="center"> ✅ Keep Learning & Keep Growing & Keep Shining 🐞<br> </h1>
+<h1 align="center"> It’s not about perfection — just being better than yesterday. <br> </h1>
 
 <h3 align="center"><br> Flutter Application Developer | Learning System Design | AI-Driven & Scalable App Integration | Native and Hybrid Application Development | MVVM and Clean Architecture | SOLID Principles and Design patterns | API Integration | State management (BloC and provider) | Navigation and routing technique | Animations | OOP and functional programming | Database (SQL, SQLite, Shared preference, Firebase) | CI/CD | Deployment | Maintenance </h3>
 
